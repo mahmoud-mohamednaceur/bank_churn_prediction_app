@@ -1,0 +1,40 @@
+# Core libraries for data manipulation and analysis
+numpy==1.23.5
+pandas==2.2.2
+scipy==1.10.0
+matplotlib==3.7.0
+seaborn==0.12.2
+tabulate==0.9.0
+
+# Data storage and file handling
+fastparquet==2024.5.0
+pyarrow==17.0.0
+pyarrow-hotfix==0.5
+
+
+
+# Exploratory Data Analysis (EDA)
+ydata-profiling==4.10.0
+
+# Machine learning and modeling
+scikit-learn==1.3.0
+imbalanced-learn==0.10.1
+tensorflow==2.13.0
+keras==2.13.0
+lightgbm==3.3.5
+xgboost==1.7.6
+statsmodels==0.14.0
+
+
+# Categorical data handling
+category-encoders==2.6.0
+
+# Data validation
+pydantic==1.10.9
+
+# Development utilities
+ipython==8.14.0
+ipython-genutils==0.2.0
+mpld3==0.5.10
+matplotlib-inline==0.1.6
+
